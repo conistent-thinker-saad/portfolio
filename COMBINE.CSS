@@ -1,0 +1,114 @@
+ body{
+    margin: 0;
+    padding: 0;
+ }
+ .firstsection{
+    background-color: rgb(236, 152, 42);
+    text-align: center;
+    align-items: center;
+    
+}
+.cloudfirstimg{
+    position:relative;
+    left: 600px;
+    top:40px; 
+}
+.cloudsecondimg{
+    position: relative;
+    bottom: 250px;
+}
+h1{
+    
+    font-size: 50px;
+}
+.INNER{
+    background-color: bisque;
+    text-align: center;
+    align-items: center;
+    margin: 0%;
+
+}
+.skillgif{
+    padding-right: 750px;
+    margin: 50px;
+    width: 350px
+    
+
+}
+.p{
+    padding-left: 700px;
+}
+
+
+.new{
+    padding-left:140px;
+    margin: 5opx;
+    width: 350px;
+
+}
+/*contact section styles*/
+.contact-me{
+    text-align: center;
+    padding:55px;
+}
+hr{
+    width:10px;
+    background-color: black;
+
+}
+.p1{
+    left:750px;
+    position:absolute;
+    top:1300px;
+    font-size: x-large;
+}
+.para{
+    position:absolute;
+    top:1650px;
+    left:200px;
+    font-size: larger;
+    margin-bottom: 10px;
+    
+}
+.class{
+    /* text-decoration: underline; */
+    padding-right: 700px;
+}
+.button1{
+    font-size: 25px;
+    background-color:#F3AA60;
+ border-color:#E1CCEC; 
+border-radius: 5px;
+padding: 10px;
+  /* display: inline-block; */
+  text-decoration: none;
+/* transition:background-color 0.3s; */
+}
+a{
+    text-decoration: none;
+}
+.button1:hover{
+    background-color:black;
+}
+.button2{
+    padding: 10px;
+    font-size: 25px;
+    background-color:#F3AA60;
+    border-color: #FFCC70;
+    border-radius:5px;
+    display:inline-block;
+    text-decoration:none
+    
+}
+.button2:hover{
+    background-color: aqua;
+}
+footer{
+    background-color: #F3AA60;
+    padding:10px;
+    text-align: center;
+}
+
+    
+    
+
